@@ -5,4 +5,4 @@ Computational Intelligence (Tecnicatura Universitaria en Automatización y Robó
 
 ## Inverse pendulum
 
-The notebook !()[inverse_pendulum.ipynb] is the classic problem presented in introductory books like *Passino & Yurkovich (1998), "Fuzzy Control"*.
+The [inverse pendulum notebook](inverse_pendulum.ipynb) is the classic problem presented in introductory books like *Passino & Yurkovich (1998), "Fuzzy Control"*.
