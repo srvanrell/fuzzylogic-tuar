@@ -18,4 +18,4 @@ The [mountain car notebook](guia_pendulo_invertido.ipynb) presents the mountain 
 
 ## Usage
 
-Notebooks and modified environments (`py files`) must be located in the same directory to work properly.
+Notebooks and modified environments (`.py` files) must be located in the same directory to work properly.
